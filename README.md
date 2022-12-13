@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohsinusmani
 - 👀 I’m interested in data Science and Machine Learning
-- 🌱 I’m currently working as Data science trainer
+- 🌱 I’m currently working as Project Engineer in IIT Kanpur
 - 💞️ I’m looking to collaborate on Data science
 - 📫 Reach me at emailid-mohsinu001@gmail.com and LinkedIn account- www.linkedin.com/in/mohsin-usmani
 
